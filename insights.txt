@@ -3,3 +3,49 @@ year roi is 60      -> 10 years ->      109x        -> 100  x
 year roi is 100     -> 10 years ->      1024x       -> 1k   x
 year roi is 150     -> 10 years ->      9536x       -> 9k   x
 year roi is 200     -> 10 years ->      59049x      -> 59k  x
+
+year roi is 300     -> 10 years ->      1048576x    -> 10l  x
+
+year roi is 400     -> 10 years ->      9765625x    -> 97l x
+
+-----
+capital 10k
+roi 100
+years 10
+final capital : 1k times ( 1 000 * 10 000 => 1 000 0 000 => 1cr)
+---
+
+capital 1 lakh
+roi 100
+years 10
+final capital : 1k times ( 1 000 * 1 00 000 => 1 000 00 000 -> 10 cr)
+---
+capital 1lakh
+roi 200
+years 10
+final capital : 59k times  (59000 * 100000 => 59 0 00 000 00 => 590 cr)
+  59 cr
+
+ ---
+ capital 10k
+ roi 200
+ years 10
+ final capital : 59k timies ( 59000 * 1 00 00 => 59 0 00 00 00 => 59 cr)
+ ---
+
+ capital 10k
+ roi 300
+ years 10
+ final capital : 10lakh times (10 00 000 * 1 00 00  => 1 00 000 00 00 => 1k cr)
+
+ ---
+ capital 1l
+ roi 300
+ years 10
+ final capital : 10lakh times (10 00 000 * 1 00 000 => 1 0 00 000 00 000 => 10k cr )
+
+---
+capital 10k
+roi 400
+years 10
+final capital : 97 lakh times(97 lakh * 10k -> 9.7k cr)
