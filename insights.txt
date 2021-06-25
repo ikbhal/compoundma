@@ -1,0 +1,5 @@
+year roi is 26      -> 10 years ->      10x         -> 10   x
+year roi is 60      -> 10 years ->      109x        -> 100  x
+year roi is 100     -> 10 years ->      1024x       -> 1k   x
+year roi is 150     -> 10 years ->      9536x       -> 9k   x
+year roi is 200     -> 10 years ->      59049x      -> 59k  x
